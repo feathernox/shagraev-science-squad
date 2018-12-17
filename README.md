@@ -18,3 +18,5 @@
 
 [Игрушечный эксперимент на биграммах](https://colab.research.google.com/drive/1Nyw8f-IhRjzPj3uSzrSJy5ky9nLbI4hL)
 
+[Отчет](https://1drv.ms/w/s!AtYpw1i4HBz0aSwX43i3aiZqsus)
+
