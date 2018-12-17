@@ -11,7 +11,7 @@
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1OiFzCpMXor5otHe36pUBY6r9EgW-Qkh4)
 
 
-### Турумтаев
+### Турумтаев Галим
 
 [Обзор литературы](https://github.com/turumtaev/shagraev-science-squad/blob/master/overview_17_12_v2.pdf)
 
