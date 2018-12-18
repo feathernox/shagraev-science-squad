@@ -27,3 +27,5 @@
 [Обзор литературы](https://github.com/turumtaev/shagraev-science-squad/blob/master/overview_17_12_v2.pdf)
 
 [Презентация](https://github.com/turumtaev/shagraev-science-squad/blob/master/presentation_11_12_v3.pdf)
+
+[Отчет](https://github.com/turumtaev/shagraev-science-squad/blob/master/report_18_19_v2.pdf)
