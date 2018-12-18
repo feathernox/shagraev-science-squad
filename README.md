@@ -35,3 +35,12 @@
 [Презентация](https://yadi.sk/i/w7IRR48sC9oCzw)
 
 
+### Гусарова Дарья
+
+[Список литературы](https://docs.google.com/document/d/1giMAIThsDJQNZLKs27E1vAPx2yQdeaDOTmqBs1L6SVs/edit)
+
+[Презентация](https://docs.google.com/presentation/d/1GFcuyGqeIpSvcTa3HW_FoxwpXl_Pvi4wdMsoNZT6jOY/edit#slide=id.p)
+
+[Игрушечный эксперимент](https://colab.research.google.com/drive/1bHhl0hGWvYYm11iD5qIsQZIL0Gwq6Na7)
+
+
