@@ -30,6 +30,7 @@
 
 [Презентация](https://github.com/turumtaev/shagraev-science-squad/blob/master/presentation_11_12_v3.pdf)
 
+[Отчет](https://github.com/turumtaev/shagraev-science-squad/blob/master/report_18_19_v2.pdf)
 
 ### Романенко Илья 
 [Список литературы](https://docs.google.com/document/d/1X0Fhr1ynAhmIvFtUUJZj4Mvz65ndmty32p8onOlb1VU/edit?usp=sharing)
@@ -46,4 +47,3 @@
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1bHhl0hGWvYYm11iD5qIsQZIL0Gwq6Na7)
 
 [Отчет](https://github.com/feathernox/shagraev-science-squad/blob/master/gusarova/Otchet_Nir.docx)
-
