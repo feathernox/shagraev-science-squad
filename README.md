@@ -37,6 +37,7 @@
 
 [Презентация](https://yadi.sk/i/w7IRR48sC9oCzw)
 
+[Отчет](https://yadi.sk/i/lQxFk_C31JboZg)
 
 ### Гусарова Дарья
 
