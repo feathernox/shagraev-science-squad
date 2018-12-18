@@ -45,4 +45,5 @@
 
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1bHhl0hGWvYYm11iD5qIsQZIL0Gwq6Na7)
 
+[Отчет](https://github.com/feathernox/shagraev-science-squad/blob/master/gusarova/Otchet_Nir.docx)
 
