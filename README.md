@@ -10,6 +10,8 @@
 
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1OiFzCpMXor5otHe36pUBY6r9EgW-Qkh4)
 
+[Отчет](https://docs.google.com/document/d/1svE1u8Yh4ljfZ4gq3Ql98AI45aCZmCJ5apyk28kHmeo/edit?usp=sharing)
+
 
 ### Кириленко Елена
 
