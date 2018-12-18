@@ -10,6 +10,7 @@
 
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1OiFzCpMXor5otHe36pUBY6r9EgW-Qkh4)
 
+
 ### Кириленко Елена
 
 [Список литературы](https://docs.google.com/document/d/1XUHlJqMj5yU1jbHvJBaXXHQVxWaq9PraxZXPDRE-GWo/edit?usp=sharing)
@@ -20,3 +21,9 @@
 
 [Отчет](https://1drv.ms/w/s!AtYpw1i4HBz0aSwX43i3aiZqsus)
 
+
+### Турумтаев Галим
+
+[Обзор литературы](https://github.com/turumtaev/shagraev-science-squad/blob/master/overview_17_12_v2.pdf)
+
+[Презентация](https://github.com/turumtaev/shagraev-science-squad/blob/master/presentation_11_12_v3.pdf)
