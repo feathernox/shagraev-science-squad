@@ -10,6 +10,8 @@
 
 [Игрушечный эксперимент](https://colab.research.google.com/drive/1OiFzCpMXor5otHe36pUBY6r9EgW-Qkh4)
 
+[Отчет](https://docs.google.com/document/d/1svE1u8Yh4ljfZ4gq3Ql98AI45aCZmCJ5apyk28kHmeo/edit?usp=sharing)
+
 
 ### Кириленко Елена
 
@@ -29,3 +31,19 @@
 [Презентация](https://github.com/turumtaev/shagraev-science-squad/blob/master/presentation_11_12_v3.pdf)
 
 [Отчет](https://github.com/turumtaev/shagraev-science-squad/blob/master/report_18_19_v2.pdf)
+
+### Романенко Илья 
+[Список литературы](https://docs.google.com/document/d/1X0Fhr1ynAhmIvFtUUJZj4Mvz65ndmty32p8onOlb1VU/edit?usp=sharing)
+
+[Презентация](https://yadi.sk/i/w7IRR48sC9oCzw)
+
+
+### Гусарова Дарья
+
+[Список литературы](https://docs.google.com/document/d/1giMAIThsDJQNZLKs27E1vAPx2yQdeaDOTmqBs1L6SVs/edit)
+
+[Презентация](https://docs.google.com/presentation/d/1GFcuyGqeIpSvcTa3HW_FoxwpXl_Pvi4wdMsoNZT6jOY/edit#slide=id.p)
+
+[Игрушечный эксперимент](https://colab.research.google.com/drive/1bHhl0hGWvYYm11iD5qIsQZIL0Gwq6Na7)
+
+[Отчет](https://github.com/feathernox/shagraev-science-squad/blob/master/gusarova/Otchet_Nir.docx)
