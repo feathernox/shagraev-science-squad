@@ -23,6 +23,8 @@
 
 [Отчет](https://1drv.ms/w/s!AtYpw1i4HBz0aSwX43i3aiZqsus)
 
+[Постановки задачи](https://docs.google.com/document/d/1MP0OQcIou9rbIivETNzXk2kt6NypydK7HuTFdg6T9lE/edit?usp=sharing)
+
 
 ### Турумтаев Галим
 
