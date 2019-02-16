@@ -5,3 +5,4 @@
 
 [Отчет](https://github.com/feathernox/shagraev-science-squad/blob/master/danilov/report.pdf)
 
+[Литература](https://github.com/feathernox/shagraev-science-squad/blob/master/danilov/articles.md)
