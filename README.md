@@ -12,6 +12,7 @@
 
 [Отчет](https://docs.google.com/document/d/1svE1u8Yh4ljfZ4gq3Ql98AI45aCZmCJ5apyk28kHmeo/edit?usp=sharing)
 
+[Эксперимент с зависимостями от метода обучения и размера размеченной выборки](https://colab.research.google.com/drive/1tXWg3ybJdDrrzgVSEecwZPEiLC9yGZUv)
 
 ### Кириленко Елена
 
