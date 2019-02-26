@@ -28,7 +28,8 @@
 
 [Ссылки на датасеты](https://docs.google.com/document/d/1JNWiogcvn5dlQM-mvvEOKt8orZI41VNRgg3eQbP7FHw/edit?usp=sharing)
 
-[Просмотр датасетов](https://colab.research.google.com/drive/1ozsCzQGowmo5T9f-ZqTejfgDvNuD4GCe)
+[Просмотр датасетов](https://colab.research.google.com/drive/17qk7w9xMTB4tdcOQs0AUh7HoHT449kpY)
+
 
 
 ### Турумтаев Галим
