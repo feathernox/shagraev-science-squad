@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from torchvision import transforms
 
 
-MYPATH = '../../../../storage/feathernox/'
+MYPATH = '../../../../../storage/feathernox/'
 
 MNIST_AUGMENTATION = transforms.Compose([
     transforms.RandomAffine(10, translate=(0.1, 0.1), scale=(0.75, 1.33), shear=10,
